@@ -1,0 +1,22 @@
+:root{
+    /* color */
+    --text-color : #222;
+    --text-decor-color: #abded7;
+    --bg-color : #4d8581;
+    --bg-element-color : #b0988e;
+    --bg-decor-color: #eee7df;
+    /* sizes */
+    --max-width : 1200px;
+    --header-height : 120px;
+    --padding : 10px;
+    --margin : 10px;
+    --gap : 10px;
+    --text-size : 20px;
+    --title-size : 30px;
+    --photo-size: 200px;
+    --logo-size : 50px;
+    --icon-size : 30px;
+
+    /* others */
+    --transition: 0.1s;
+}
